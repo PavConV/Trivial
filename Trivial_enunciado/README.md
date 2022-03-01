@@ -1,3 +1,4 @@
+# Trivial_Enunciado
 # Problema 0
 Extraemos el código duplicado a un unico metodo "nuevaPosicionJugador", al que llamamos desde ambos sitios.
 
